@@ -1,1 +1,1 @@
-require("zack")
+require("config.lazy").setup("plugins")
